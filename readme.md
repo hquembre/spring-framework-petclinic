@@ -1,4 +1,5 @@
 # TP INSA
+fix release
 eXO2BIS
 Ex2
 # Spring PetClinic Sample Application
